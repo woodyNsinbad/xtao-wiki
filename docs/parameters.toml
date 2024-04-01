@@ -1,0 +1,36 @@
+## poros 参数
+poros_ip = "https://10.61.51.7/"
+poros_url = ""
+
+## wiki_参数
+
+wiki_ip = ""
+wiki_url = ""
+
+## ubuntu sandbox 
+
+ubuntu_sandbox_ip = "10.61.51.7"
+ubuntu_sandbox_port = "1342"
+ubuntu_sandbox_url = ""
+
+## centos sandbox 
+
+centos_sandbox_ip = "10.61.51.4"
+centos_sandbox_port = "1249"
+centos_sandbox_url = ""
+
+## jupyterhub 
+
+jupyterhub_ip = "10.61.51.3"
+jupyterhub_port = "1309"
+
+## rstudio
+
+rstudio_ip = "10.61.51.3"
+rstudio_port = "1309"
+
+## docker-harbor 
+
+harbor_web_ip = "10.61.51.7"
+harbor_web_port = "5000"
+registry_url = "registry.servicemgr.apc:5000"
